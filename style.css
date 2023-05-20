@@ -136,5 +136,9 @@ h2 {
   .card-desc {
     font-size: .88rem;
   }
+  
+  .card-btn {
+    margin-bottom: 1.5rem;
+  }
 
 }
